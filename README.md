@@ -1,2 +1,2 @@
-# ThreeFactor
-A software for providing three factor authentication to users .
+# User Registration 
+A Gui based User Registration application in java.
